@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+int sci,maths,eng;
+float total,per;
+printf("sci:\t");
+scanf("%d",&sci);
+printf("maths:\t");
+scanf("%d",&maths);
+printf("eng:\t");
+scanf("%d",&eng);
+total=sci+maths+eng;
+printf("\ntotal is:%f",total);
+per=total+300*100;
+printf("\nper is:%f",per);
+}

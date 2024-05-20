@@ -1,0 +1,14 @@
+#include<stdio.h>
+void interst()
+{
+for(int p,int r,int n)
+{
+float(p*r*n)/100;
+printf("simple:%2.2f Rs",final);
+}
+}
+
+void main()
+{
+interst();
+}
